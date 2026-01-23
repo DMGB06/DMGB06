@@ -83,7 +83,7 @@ I'm Denilson from Peru 🇵🇪<br><br>
 
 ###
 
-<img src="https://raw.githubusercontent.com/DMGB06/DMGB06/output/github-contribution-grid-snake.svg" />
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
 
 ###
 
