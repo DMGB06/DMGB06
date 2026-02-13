@@ -86,11 +86,7 @@ I'm Denilson from Peru 🇵🇪<br><br>
 
 ###
 
-<h3 align="left">🔥 GitHub Stats</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DMGB06&layout=compact&theme=dracula" height="150" />
-</div>
 
 ###
 
