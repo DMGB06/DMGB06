@@ -88,9 +88,10 @@ I'm Denilson from Peru 🇵🇪<br><br>
 
 <h3 align="left">🔥 GitHub Stats</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DMGB06&layout=compact&theme=dracula" height="150" />
-</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DMGB06&layout=compact&theme=dracula" height="150"/>
+</p>
 ###
 
 ![snake gif](https://github.com/DMGB06/DMGB06/blob/output/github-snake-dark.svg)
