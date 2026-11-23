@@ -1,122 +1,69 @@
-<div align="center">
-  <a href="https://portafolio-ivory-chi.vercel.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=7C3AED&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-  <a href="https://www.linkedin.com/in/denilson-miguel-godoy-bautista/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-  <a href="mailto:2201010141@undc.edu.pe" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-  <a href="https://www.instagram.com/denilson_6_gd/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-  <a href="https://www.facebook.com/denilson.godoy.395/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DMGB06&label=Profile%20views&color=7c3aed&style=flat" alt="Profile views" />
-</div>
-
-<br/>
-
-<h2 align="center">Hey there 👋 · Hola 👋</h2>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Desarrollador+Full+Stack;From+Peru+%F0%9F%87%B5%F0%9F%87%B0;Construyo+software+real+%E2%9A%A1" alt="Typing intro" />
-</div>
-
-<br/>
-
-<h3 align="left">👨‍💻 About Me · Sobre mí</h3>
-
-<img align="right" height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Developer animation" />
-
-<p align="left">
-I'm Denilson from Peru 🇵🇪 · Soy Denilson de Perú 🇵🇪<br><br>
-- 💻 Full Stack Developer · Desarrollador Full Stack<br>
-- 🎓 Systems Engineering · Ingeniería de Sistemas — Universidad Nacional de Cañete<br>
-- 📱 Building mobile & web apps · Apps móviles y web con React Native, Expo & Supabase<br>
-- 🚀 Currently working on <a href="https://github.com/DMGB06/bus-attendance-qr"><b>BusControl QR</b></a><br>
-- 🌐 Portfolio → <a href="https://portafolio-ivory-chi.vercel.app">portafolio-ivory-chi.vercel.app</a><br>
-- ⚡ Passionate about real-world projects · Apasionado por proyectos que resuelven problemas reales
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:24183d,55:6d28d9,100:a78bfa&amp;height=10&amp;section=header" width="100%" alt="">
 </p>
 
-<br clear="right"/>
+<h1 align="center">Denilson Miguel Godoy Bautista</h1>
 
-<h3 align="left">🛠 Languages & Tools · Lenguajes y Herramientas</h3>
-
-<h4 align="left">Languages & Frameworks</h4>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34" alt="JavaScript" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="34" alt="TypeScript" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="34" alt="Java" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="34" alt="NestJS" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="34" alt="HTML5" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="34" alt="CSS3" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="34" alt="Vue.js" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="34" alt="React" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" height="34" alt="Expo" />
-</div>
-
-<h4 align="left">Databases & Other Tools</h4>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="34" alt="Supabase" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="34" alt="PostgreSQL" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="34" alt="MySQL" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="34" alt="AWS" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="34" alt="Figma" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="34" alt="Git" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="34" alt="GitHub" />
-</div>
-
-<br/>
-
-<h3 align="left">🚀 Featured Project · Proyecto Destacado</h3>
-
-<p align="left">
-<a href="https://github.com/DMGB06/bus-attendance-qr"><b>BusControl QR</b></a> — School bus attendance system with QR codes · Sistema de asistencia escolar con QR<br>
-Stack: Expo · React Native · Supabase · TypeScript<br>
-Status · Estado: <b>V1 MVP operativo ✅</b>
+<p align="center">
+  <strong>Desarrollador Full Stack</strong> · Perú<br>
+  Ingeniería de Sistemas · Universidad Nacional de Cañete
 </p>
 
-<br/>
+<p align="center">
+  <a href="https://portafolio-ivory-chi.vercel.app"><img src="https://img.shields.io/badge/Portafolio-6D28D9?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portafolio"></a>
+  <a href="https://www.linkedin.com/in/denilson-miguel-godoy-bautista/"><img src="https://img.shields.io/badge/LinkedIn-28213A?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="mailto:2201010141@undc.edu.pe"><img src="https://img.shields.io/badge/Correo-28213A?style=for-the-badge" alt="Correo"></a>
+</p>
 
-<h3 align="left">🔥 GitHub Stats · Estadísticas</h3>
+## Proyectos destacados
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=DMGB06&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&title_color=A855F7&icon_color=C084FC&bg_color=0d1117" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=DMGB06&layout=compact&theme=dracula&hide_border=true&langs_count=8&title_color=A855F7&bg_color=0d1117" alt="Top Languages" />
-</div>
+### TypingPro
 
-<div align="center">
-  <img height="165" src="https://streak-stats.demolab.com/?user=DMGB06&theme=dracula&hide_border=true&ring=A855F7&fire=C084FC&background=0d1117" alt="GitHub Streak" />
-</div>
+<a href="https://typing-platform-six.vercel.app/" aria-label="Probar TypingPro"><img src="https://portafolio-ivory-chi.vercel.app/projects/typing-platform/cover.webp" width="100%" alt="TypingPro con un ejercicio abierto y filtros por tipo de texto, dificultad e idioma"></a>
 
-<br/>
+Practica mecanografía, mide tu velocidad y precisión y compara tus resultados en el ranking global.
 
-![snake gif](https://raw.githubusercontent.com/DMGB06/DMGB06/output/github-snake-dark.svg)
+`Next.js` · `NestJS` · `Prisma` · `TypeScript`
 
-<br/>
+**[Probar TypingPro](https://typing-platform-six.vercel.app/)** · [Código](https://github.com/DMGB06/typing-platform)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7c3aed,100:2d2f4a&height=120&section=footer&animation=twinkling" width="100%" alt="Footer" />
+### BusControl QR
+
+<table>
+  <tr>
+    <td valign="middle">
+      <a href="https://portafolio-ivory-chi.vercel.app/projects/buscontrol-qr"><img src="https://portafolio-ivory-chi.vercel.app/projects/control-asistencia/bus-26.webp" width="138" alt="Pantalla de escaneo QR de BusControl"></a>
+    </td>
+    <td valign="middle">
+      <p>App de transporte escolar que registra la asistencia por QR incluso sin conexión. Las familias pueden seguir el bus en un mapa en vivo.</p>
+      <p><code>React Native</code> · <code>Expo</code> · <code>Supabase</code> · <code>TypeScript</code></p>
+      <p><strong><a href="https://portafolio-ivory-chi.vercel.app/projects/buscontrol-qr">Ver caso de estudio</a></strong> · <a href="https://github.com/DMGB06/bus-attendance-qr">Código</a></p>
+    </td>
+  </tr>
+</table>
+
+### Mesa de Partes Municipal
+
+Sistema web para la gestión de trámites y documentos municipales.
+
+## Tecnologías
+
+**Web y móvil** · TypeScript, JavaScript, React, Next.js, Vue.js, React Native y Expo  
+**Backend y datos** · NestJS, Java, Supabase, Prisma, PostgreSQL y MySQL  
+**Herramientas** · Git, GitHub, Docker, AWS y Figma
+
+<details>
+  <summary>Actividad en GitHub</summary>
+
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DMGB06/DMGB06/output/github-snake-dark.svg">
+      <img src="https://raw.githubusercontent.com/DMGB06/DMGB06/output/github-snake.svg" alt="Animación de las contribuciones de DMGB06">
+    </picture>
+  </p>
+</details>
+
+<p align="center">
+  <a href="https://www.instagram.com/denilson_6_gd/">Instagram</a> ·
+  <a href="https://www.facebook.com/denilson.godoy.395/">Facebook</a>
+</p>
